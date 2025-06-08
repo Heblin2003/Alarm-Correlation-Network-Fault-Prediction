@@ -11,8 +11,10 @@ the root cause amidst this flood of alarms is a critical challenge for network r
 efficient troubleshooting. The goal of this approach is to: 
 
 ● Identify the root cause device(s) responsible for widespread faults. 
+
 ● Uncover patterns in alarms associated with root cause devices to improve future fault 
 detection. 
+
 ● Reduce the noise from correlated alarms, focusing on actionable insights. 
 Methodology 
 This approach combines a machine learning algorithm (XGBoost) for root cause prediction 
